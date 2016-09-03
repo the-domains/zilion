@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  email: admin@zilion.mx
+  name: Zilion
+  url: zilion.mx
 name: zilion.mx
 cta:
   domain: null
